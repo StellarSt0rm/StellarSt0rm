@@ -4,13 +4,13 @@ I <font color="magenta">**LOVE**</font> programming and cats, I <font color="red
 
 ## Social links <font color="magenta">**UwU**</font>
 
-<img src="https://freelogopng.com/images/all_img/1657906383gmail-icon-png.png" height="18"> gamerblue208+dev@gmail.com
+<img src="/images/Gmail.png" height="18"> gamerblue208+dev@gmail.com
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" height="16"> [@GamerBlue208](https://www.youtube.com/@GamerBlue208)
+<img src="/images/Youtube.png" height="16"> [@GamerBlue208](https://www.youtube.com/@GamerBlue208)
 
 <img src="/images/Discord.png" height="16"> [@GamerBlue208](https://discord.com/users/865498115360292894)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" height="16"> [@GamerBlue208](https://steamcommunity.com/id/GamerBlue208)
+<img src="/images/Steam.png" height="16"> [@GamerBlue208](https://steamcommunity.com/id/GamerBlue208)
 <br>
 ## [gamerblue208.github.io](https://gamerblue208.github.io)
 <br>
