@@ -18,3 +18,9 @@ I <font color="magenta">**LOVE**</font> programming and cats, I <font color="red
 [?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 All the text in **BOLD** should be colored, but it doesn't work :,(
+
+# STATISTICS:
+<p align="center">
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GamerBlue208&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GamerBlue208&layout=compact&langs_count=8&theme=algolia"/>
+</p>
