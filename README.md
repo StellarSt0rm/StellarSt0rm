@@ -12,7 +12,7 @@ I <font color="magenta">**LOVE**</font> programming and cats, I <font color="red
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" height="16"> [@GamerBlue208](https://steamcommunity.com/id/GamerBlue208)
 <br>
-## gamerblue.github.io
+## [gamerblue208.github.io](https://gamerblue208.github.io)
 <br>
 
 [?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
