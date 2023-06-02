@@ -8,9 +8,9 @@ I <font color="magenta">**LOVE**</font> programming and cats, I <font color="red
 
 <img src="/images/Youtube.png" height="16"> [@GamerBlue208](https://www.youtube.com/@GamerBlue208)
 
-<img src="/images/Discord.png" height="16"> [@GamerBlue208](https://discord.com/users/865498115360292894)
+<img src="/images/Discord.png" height="18"> [@GamerBlue208](https://discord.com/users/865498115360292894)
 
-<img src="/images/Steam.png" height="16"> [@GamerBlue208](https://steamcommunity.com/id/GamerBlue208)
+<img src="/images/Steam.png" height="18"> [@GamerBlue208](https://steamcommunity.com/id/GamerBlue208)
 <br>
 ## [gamerblue208.github.io](https://gamerblue208.github.io)
 <br>
