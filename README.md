@@ -15,7 +15,7 @@ I <font color="magenta">**LOVE**</font> programming and cats, I <font color="red
 ## [gamerblue208.github.io](https://gamerblue208.github.io)
 <br>
 
-[?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  |  [Funky Town :)](https://www.youtube.com/watch?v=QX43QTYyV-8)
 
 All the text in **BOLD** should be colored, but it doesn't work :,(
 
