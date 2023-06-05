@@ -1,7 +1,7 @@
 # <p align="center">GamerBlue208 · she/her</p>
 <br>
 
-I <font color="magenta">**LOVE**</font> programming and cats, I <font color="red">**F*ING HATE**</font> touchpads <font size="1">and mosquitoes (& Windows)
+I <font color="magenta">**LOVE**</font> programming and cats, I <font color="red">**F*ING HATE**</font> touchpads <font size="1">and mosquitoes (& Windows - Microsoft)
 <br>
 <br>
 ## Social links <font color="magenta">**UwU**</font>
