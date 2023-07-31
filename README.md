@@ -8,7 +8,7 @@ I $\color{magenta}\text{LOVE}$ programming and cats, I $\color{red}\text{F\*ING 
 
 <img src="/images/Gmail.png" height="18"> gamerblue208+dev@gmail.com
 
-<img src="/images/Youtube.png" height="12"> [GamerBlue208](https://www.youtube.com/@GamerBlue208)
+<img src="/images/Youtube.png" height="12"> [GamerBlue208](https://www.youtube.com/@StellarSt0rm)
 
 <img src="/images/Discord.png" height="18"> [GamerBlue208](https://discord.com/users/865498115360292894)
 
