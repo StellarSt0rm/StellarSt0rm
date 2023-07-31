@@ -1,4 +1,4 @@
-# <p align="center">GamerBlue208 · she/her</p>
+# <p align="center">StellarSt0rm · she/her</p>
 <br>
 
 I $\color{magenta}\text{LOVE}$ programming and cats, I $\color{red}\text{F\*ING HATE}$ touchpads and mosquitoes (& Windows - Micro~~soft~~**shit***)
