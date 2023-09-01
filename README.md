@@ -6,7 +6,7 @@ I $\color{magenta}\text{LOVE}$ programming and cats, I $\color{red}\text{F\*ING 
 <br>
 ## Social links $\color{magenta}\text{UwU}$
 
-<img src="/images/Gmail.png" height="18"> gamerblue208+dev@gmail.com
+<img src="/images/Gmail.png" height="18"> stellarst0rm.dev@gmail.com
 
 <img src="/images/Youtube.png" height="12"> [StellarSt0rm](https://www.youtube.com/@StellarSt0rm)
 
