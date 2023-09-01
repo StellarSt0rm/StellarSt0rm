@@ -3,6 +3,8 @@
 
 I $\color{magenta}\text{LOVE}$ programming and cats, I $\color{red}\text{F\*ING HATE}$ touchpads and mosquitoes (& Windows - Micro~~soft~~**shit***)
 <br>
+
+![cat-griddy.gif (made by "@owiebrainhurts" at yt :D)](https://github.com/StellarSt0rm/StellarSt0rm/assets/115688181/fd83dedf-3eb8-429b-8b18-162bdf61506e)
 <br>
 ## Social links $\color{magenta}\text{UwU}$
 
