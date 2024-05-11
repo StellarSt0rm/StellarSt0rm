@@ -10,7 +10,7 @@ I $\color{magenta}\text{LOVE}$ programming and cats, I $\color{red}\text{F\*ING 
 
 <img src="/images/Gmail.png" height="18"> stellarst0rm.dev@gmail.com
 
-<img src="/images/Element.png" height="18"> [GamerBlue208](https://matrix.to/#/@gamerblue208:matrix.org)
+<img src="/images/Element.png" height="18"> [StellarSt0rm](https://matrix.to/#/@gamerblue208:matrix.org)
 
 <img src="/images/Discord.png" height="18"> [StellarSt0rm](https://discord.com/users/865498115360292894)
 
