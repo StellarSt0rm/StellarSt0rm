@@ -15,13 +15,18 @@ I $\color{magenta}\text{LOVE}$ programming and cats, I $\color{red}\text{F\*ING 
 <img src="/images/Discord.png" height="18"> [StellarSt0rm](https://discord.com/users/865498115360292894)
 
 <img src="/images/Element.png" height="18"> [GamerBlue208](https://matrix.to/#/@gamerblue208:matrix.org)
-<br>
+
 <br>
 
-## <img src="/images/Web.png" height="18"> [stellarst0rm.github.io](https://stellarst0rm.github.io)
+<img src="/images/Web.png" height="18"> [stellarst0rm.github.io](https://stellarst0rm.github.io)
+
 <br>
 
-[?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  |  [Funky Town :)](https://www.youtube.com/watch?v=QX43QTYyV-8)  |  [Sim Time Sim Place (Nick Franglen of Lemon Jelly Remix)](https://www.youtube.com/watch?v=cnlfCI2qi7I)
+## Random Music!
+- [?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Funky Town :)](https://www.youtube.com/watch?v=QX43QTYyV-8)
+- [Sim Time Sim Place (Nick Franglen of Lemon Jelly Remix)](https://www.youtube.com/watch?v=cnlfCI2qi7I)
+- [Another One Bites The Dust](https://www.youtube.com/watch?v=rY0WxgSXdEE)
 <br>
 <br>
 
