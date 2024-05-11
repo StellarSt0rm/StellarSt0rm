@@ -1,4 +1,4 @@
-# <p align="center">StellarSt0rm · she/her</p>
+# <p align="center">StellarSt0rm · $\color{mediumorchid}\text{she/her}$</p>
 <br>
 
 I $\color{magenta}\text{LOVE}$ programming and cats, I $\color{red}\text{F\*ING HATE}$ touchpads and mosquitoes (& Windows - Micro~~soft~~**shit***)
@@ -22,7 +22,7 @@ I $\color{magenta}\text{LOVE}$ programming and cats, I $\color{red}\text{F\*ING 
 
 <br>
 
-## Random Music!
+## Random $\color{goldenrod}\text{Music}$!
 - [?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [Funky Town :)](https://www.youtube.com/watch?v=QX43QTYyV-8)
 - [Sim Time Sim Place (Nick Franglen of Lemon Jelly Remix)](https://www.youtube.com/watch?v=cnlfCI2qi7I)
