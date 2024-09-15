@@ -8,7 +8,7 @@ I $\color{magenta}\text{LOVE}$ programming and cats, I $\color{red}\text{F\*ING 
 <br>
 ## Social links $\color{magenta}\text{UwU}$
 
-<img src="/images/Gmail.png" height="18"> stellarst0rm.dev@gmail.com
+<img src="/images/Proton.svg" height="18"> [StellarSt0rm@proton.me](mailto:StellarSt0rm@proton.me)
 
 <img src="/images/Element.png" height="18"> [StellarSt0rm](https://matrix.to/#/@gamerblue208:matrix.org)
 
