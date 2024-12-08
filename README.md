@@ -32,7 +32,7 @@ I $\color{magenta}\text{LOVE}$ programming and cats, I $\color{red}\text{F\*ING 
 <br>
 <br>
 
-# Statistics:
+# ~~Useless~~$\color{blue}\text~{Cool}$ Statistics:
 <p align="center">
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=StellarSt0rm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StellarSt0rm&layout=compact&langs_count=8&theme=dark"/>
