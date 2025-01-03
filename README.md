@@ -9,12 +9,12 @@ I $\color{magenta}\text{LOVE}$ programming and cats, I $\color{red}\text{HATE}$ 
 - [ ] Maybe remake [IYCS](https://github.com/StellarSt0rm/IYCS) in Rust? (Is it even possible?)
 
 ## Social Links $\color{magenta}\text{UwU}$
-<img src="/images/Proton.svg" height="18"> [StellarSt0rm@proton.me](mailto:StellarSt0rm@proton.me)
+<img src="images/Proton.svg" height="18"> [StellarSt0rm@proton.me](mailto:StellarSt0rm@proton.me)
 
-<img src="/images/Discord.png" height="18"> [StellarSt0rm](https://discord.com/users/865498115360292894) \
-<img src="/images/Reddit.png" height="18"> [Background-Plant-226](https://www.reddit.com/user/Background-Plant-226)
+<img src="images/Discord.png" height="18"> [StellarSt0rm](https://discord.com/users/865498115360292894) \
+<img src="images/Reddit.png" height="18"> [Background-Plant-226](https://www.reddit.com/user/Background-Plant-226)
 
-<img src="/images/Web.png" height="18"> [stellarst0rm.github.io](https://stellarst0rm.github.io)
+<img src="images/Web.png" height="18"> [stellarst0rm.github.io](https://stellarst0rm.github.io)
 
 ## Random $\color{goldenrod}\text{Music}$!
 - [ꅐꁝꁲꋖ?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
