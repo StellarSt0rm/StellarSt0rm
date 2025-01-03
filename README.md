@@ -1,5 +1,6 @@
 # StellarSt0rm · $\color{mediumorchid}\text{she/her}$
-I $\color{magenta}\text{LOVE}$ programming and cats, I $\color{red}\text{HATE}$ touchpads and mosquitoes (& M$ Windows)
+I $\color{magenta}\text{LOVE}$ programming and cats, I $\color{red}\text{HATE}$ touchpads and mosquitoes (& M$ Windows) \
+My favorite GitHub emoji: :shipit:
 
 <img title="GIF made by @owiebrainhurts" src="images/cat-griddy.gif" />
 
