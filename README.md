@@ -1,11 +1,11 @@
 # StellarSt0rm · $\color{mediumorchid}\text{she/her}$
 I $\color{magenta}\text{LOVE}$ programming and cats, I $\color{red}\text{HATE}$ touchpads and mosquitoes (& M$ Windows)
 
-![cat-griddy.gif (Made by "youtube/@owiebrainhurts")](https://github.com/StellarSt0rm/StellarSt0rm/assets/115688181/fd83dedf-3eb8-429b-8b18-162bdf61506e)
+<img title="GIF made by @owiebrainhurts" src="images/cat-griddy.gif" />
 
-## Personal $\color{green}\text{Roadmap}$ (2025)
-- [ ] \(Current) Remake my website in Rust
-- [ ] Fully learn Rust
+## Personal $\color{green}\text{Roadmap}$ (2025) | ⭐ = Currently doing
+- [ ] Remake my website in Rust ⭐
+- [ ] Fully learn Rust ⭐
 - [ ] Maybe remake [IYCS](https://github.com/StellarSt0rm/IYCS) in Rust? (Is it even possible?)
 
 ## Social Links $\color{magenta}\text{UwU}$
