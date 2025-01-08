@@ -38,11 +38,11 @@ My favorite GitHub emoji: :shipit:
   <!-- Top langs -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=StellarSt0rm&layout=donut&text_color=000&icon_color=ffeb95&bg_color=00000000&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=StellarSt0rm&layout=donut&text_color=000&icon_color=f1e05a&bg_color=00000000&hide_border=true"
       media="(prefers-color-scheme: light)"
     />
     <img height=200
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellarSt0rm&layout=donut&text_color=fff&icon_color=ffeb95&bg_color=00000000&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellarSt0rm&layout=donut&text_color=fff&icon_color=f1e05a&bg_color=00000000&hide_border=true"
     />
   </picture>
 </p>
