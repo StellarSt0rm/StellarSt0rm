@@ -33,7 +33,7 @@ My favorite GitHub emoji: :shipit:
       media="(prefers-color-scheme: light)"
     />
     <img height=200
-      src="https://github-readme-stats.vercel.app/api?username=StellarSt0rm&show_icons=true&hide_rank=true&bg_color=00000000&hide_border=true&theme=nightowl"
+      src="https://github-readme-stats.vercel.app/api?username=StellarSt0rm&show_icons=true&hide_rank=true&bg_color=00000000&hide_border=true&theme=radical"
     />
   </picture>
   <!-- Top Langs. JavaScript excluded because i hate JavaScript. -->
@@ -43,7 +43,7 @@ My favorite GitHub emoji: :shipit:
       media="(prefers-color-scheme: light)"
     />
     <img height=200
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellarSt0rm&layout=donut&hide=javascript&bg_color=00000000&hide_border=true&theme=nightowl"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellarSt0rm&layout=donut&hide=javascript&bg_color=00000000&hide_border=true&theme=radical"
     />
   </picture>
 </p>
