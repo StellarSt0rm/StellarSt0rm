@@ -1,6 +1,6 @@
 # StellarSt0rm · $\color{mediumorchid}\text{she/her}$
 I $\color{magenta}\text{LOVE}$ programming and cats. \
-I $\color{red}\text{HATE}$ M$ and mosquitoes. \
+I $\color{red}\text{HATE}$ M$ and JavaScript. \
 My favorite GitHub emoji: :shipit:
 
 <img title="GIF made by @owiebrainhurts" src="images/cat-griddy.gif" />
@@ -26,23 +26,24 @@ My favorite GitHub emoji: :shipit:
 
 ## ~~Useless~~ $\color{blue}\text{Cool}$ Statistics:
 <p align="center">
+  <!-- Stats -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=StellarSt0rm&show_icons=true&hide_rank=true&text_color=000&icon_color=ffeb95&bg_color=00000000&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=StellarSt0rm&show_icons=true&hide_rank=true&bg_color=00000000&hide_border=true"
       media="(prefers-color-scheme: light)"
     />
     <img height=200
-      src="https://github-readme-stats.vercel.app/api?username=StellarSt0rm&show_icons=true&hide_rank=true&text_color=fff&icon_color=ffeb95&bg_color=00000000&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=StellarSt0rm&show_icons=true&hide_rank=true&bg_color=00000000&hide_border=true&theme=nightowl"
     />
   </picture>
-  <!-- Top langs -->
+  <!-- Top Langs. JavaScript excluded because i hate JavaScript. -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=StellarSt0rm&layout=donut&text_color=000&icon_color=f1e05a&bg_color=00000000&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=StellarSt0rm&layout=donut&hide=javascript&bg_color=00000000&hide_border=true"
       media="(prefers-color-scheme: light)"
     />
     <img height=200
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellarSt0rm&layout=donut&text_color=fff&icon_color=f1e05a&bg_color=00000000&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellarSt0rm&layout=donut&hide=javascript&bg_color=00000000&hide_border=true&theme=nightowl"
     />
   </picture>
 </p>
