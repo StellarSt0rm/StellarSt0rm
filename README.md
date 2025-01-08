@@ -1,13 +1,15 @@
 # StellarSt0rm · $\color{mediumorchid}\text{she/her}$
-I $\color{magenta}\text{LOVE}$ programming and cats, I $\color{red}\text{HATE}$ touchpads and mosquitoes (& M$ Windows) \
+I $\color{magenta}\text{LOVE}$ programming and cats. \
+I $\color{red}\text{HATE}$ M$ and mosquitoes. \
 My favorite GitHub emoji: :shipit:
 
 <img title="GIF made by @owiebrainhurts" src="images/cat-griddy.gif" />
 
-## Personal $\color{green}\text{Roadmap}$ (2025) | ⭐ = Currently doing
+## Personal $\color{green}\text{Roadmap}$ (2025) | ⭐ = Currently Doing
 - [ ] Remake my website in Rust ⭐
 - [ ] Fully learn Rust ⭐
 - [ ] Maybe remake [IYCS](https://github.com/StellarSt0rm/IYCS) in Rust? (Is it even possible?)
+  - Did some research, it's possible with wasm-pack and Yew | [Source](https://github.com/bonomat/rust-wasm-firefox-extension)
 
 ## Social Links $\color{magenta}\text{UwU}$
 <img src="images/Proton.svg" height="18"> [StellarSt0rm@proton.me](mailto:StellarSt0rm@proton.me)
@@ -24,10 +26,23 @@ My favorite GitHub emoji: :shipit:
 
 ## ~~Useless~~ $\color{blue}\text{Cool}$ Statistics:
 <p align="center">
-  <img height=200
-    src="https://github-readme-stats.vercel.app/api?username=StellarSt0rm&show_icons=true&hide_rank=true&theme=nightowl&bg_color=00000000&hide_border=true"
-  />
-  <img height=200
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellarSt0rm&layout=donut&theme=nightowl&bg_color=00000000&hide_border=true"
-  />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=StellarSt0rm&show_icons=true&hide_rank=true&title_color=c792ea&text_color=000&icon_color=ffeb95&bg_color=00000000&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height=200
+      src="https://github-readme-stats.vercel.app/api?username=StellarSt0rm&show_icons=true&hide_rank=true&title_color=c792ea&text_color=fff&icon_color=ffeb95&bg_color=00000000&hide_border=true"
+    />
+  </picture>
+  <!-- Top langs -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=StellarSt0rm&layout=donut&title_color=c792ea&text_color=000&icon_color=ffeb95&bg_color=00000000&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height=200
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellarSt0rm&layout=donut&title_color=c792ea&text_color=fff&icon_color=ffeb95&bg_color=00000000&hide_border=true"
+    />
+  </picture>
 </p>
