@@ -8,7 +8,7 @@ My favorite GitHub emoji: :shipit:
 ## Personal $\color{green}\text{Roadmap}$ (2025) | ⭐ = Currently Doing
 - [ ] Remake my website in Rust ⭐
 - [ ] Fully learn Rust
-  - [ ] Finish the [Rust book](https://rust-book.cs.brown.edu) ⭐
+  - [ ] Read the [Rust book](https://rust-book.cs.brown.edu) ⭐
   - [ ] Maybe read the [Rustonomicon](https://doc.rust-lang.org/nomicon/intro.html)?
 - [ ] Maybe remake [IYCS](https://github.com/StellarSt0rm/IYCS) in Rust? (Is it even possible?)
   - Did some research, it's possible with wasm-pack and Yew | [Source](https://github.com/bonomat/rust-wasm-firefox-extension)
