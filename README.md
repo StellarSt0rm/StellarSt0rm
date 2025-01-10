@@ -6,7 +6,7 @@ My favorite GitHub emoji: :shipit:
 <img title="GIF made by @owiebrainhurts" src="images/cat-griddy.gif" />
 
 ## Personal $\color{green}\text{Roadmap}$ (2025) | ⭐ = Currently Doing
-- [ ] Remake my website in Rust ⭐
+- [ ] Remake my [website](https://github.com/StellarSt0rm/stellarst0rm.github.io) in Rust ⭐
 - [ ] Fully learn Rust
   - [ ] Read the [Rust book](https://rust-book.cs.brown.edu) ⭐
   - [ ] Maybe read the [Rustonomicon](https://doc.rust-lang.org/nomicon/intro.html)?
