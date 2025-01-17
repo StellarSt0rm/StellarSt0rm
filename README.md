@@ -24,7 +24,7 @@ My favorite GitHub emoji: :shipit:
 ## Random $\color{goldenrod}\text{Music}$!
 - [ꅐꁝꁲꋖ?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [Funky Town](https://www.youtube.com/watch?v=QX43QTYyV-8)
-- [Hoshi To Bokura To (tofubeats Remix)](https://www.youtube.com/watch?v=iBt9yhgho6Y)
+- [\*Waits faster\*](https://www.youtube.com/watch?v=gmaIv5JaryU)
 
 ## ~~Useless~~ $\color{blue}\text{Cool}$ Statistics:
 <p align="center">
