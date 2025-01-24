@@ -29,23 +29,17 @@ My favorite GitHub emoji: :shipit:
 ## ~~Useless~~ $\color{blue}\text{Cool}$ Statistics:
 <p align="center">
   <!-- Stats -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=StellarSt0rm&show_icons=true&hide_rank=true&bg_color=00000000&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <img height=200
-      src="https://github-readme-stats.vercel.app/api?username=StellarSt0rm&show_icons=true&hide_rank=true&bg_color=00000000&hide_border=true&theme=radical"
-    />
-  </picture>
+  <img height=200
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StellarSt0rm&theme=transparent"
+  />
+  
   <!-- Top Langs. JavaScript excluded because i hate JavaScript. -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=StellarSt0rm&layout=donut&hide=javascript&bg_color=00000000&hide_border=true"
-      media="(prefers-color-scheme: light)"
+  <p align="center">
+    <img height=200
+      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StellarSt0rm&theme=transparent&exclude=JavaScript"
     />
     <img height=200
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellarSt0rm&layout=donut&hide=javascript&bg_color=00000000&hide_border=true&theme=radical"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StellarSt0rm&theme=transparent&exclude=JavaScript"
     />
-  </picture>
+  </p>
 </p>
