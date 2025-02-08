@@ -10,8 +10,8 @@ My favorite GitHub emoji: :shipit:
 - [ ] Fully learn Rust
   - [ ] Read the [Rust book](https://rust-book.cs.brown.edu) ⭐
   - [ ] Maybe read the [Rustonomicon](https://doc.rust-lang.org/nomicon/intro.html)?
-- [ ] Maybe remake [IYCS](https://github.com/StellarSt0rm/IYCS) in Rust? (Is it even possible?)
-  - Did some research, it's possible with wasm-pack and Yew | [Source](https://github.com/bonomat/rust-wasm-firefox-extension)
+- [ ] Maybe remake [IYCS](https://github.com/StellarSt0rm/IYCS) in Rust?
+  - Did some [research](https://github.com/bonomat/rust-wasm-firefox-extension), it's possible with wasm-pack and Yew.
 
 ## Social Links $\color{magenta}\text{UwU}$
 <img src="images/Proton.svg" height="18"> [StellarSt0rm@proton.me](mailto:StellarSt0rm@proton.me)
