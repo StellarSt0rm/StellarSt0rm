@@ -5,7 +5,7 @@ My favorite GitHub emoji: :shipit:
 
 <img title="GIF made by @owiebrainhurts" src="images/cat-griddy.gif" />
 
-## Personal $\color{green}\text{Roadmap}$ (2025) | ⭐ = Currently Doing
+## Personal $\color{green}\text{Roadmap}$ (2025) · ⭐ = Currently Doing
 - [ ] Remake my [website](https://github.com/StellarSt0rm/stellarst0rm.github.io) in Rust ⭐
 - [ ] Fully learn Rust
   - [ ] Read the [Rust book](https://rust-book.cs.brown.edu) ⭐
@@ -13,7 +13,7 @@ My favorite GitHub emoji: :shipit:
 - [ ] Maybe remake [IYCS](https://github.com/StellarSt0rm/IYCS) in Rust?
   - Did some [research](https://github.com/bonomat/rust-wasm-firefox-extension), it's possible with wasm-pack and Yew.
 
-## Social Links $\color{magenta}\text{UwU}$
+## Social $\color{magenta}\text{Links}$
 <img src="images/Proton.svg" height="18"> [StellarSt0rm@proton.me](mailto:StellarSt0rm@proton.me)
 
 <img src="images/Discord.png" height="18"> [StellarSt0rm](https://discord.com/users/865498115360292894) \
@@ -21,12 +21,7 @@ My favorite GitHub emoji: :shipit:
 
 <img src="images/Web.png" height="18"> [stellarst0rm.github.io](https://stellarst0rm.github.io)
 
-## Random $\color{goldenrod}\text{Music}$!
-- [ꅐꁝꁲꋖ?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- [Funky Town](https://www.youtube.com/watch?v=QX43QTYyV-8)
-- [\*Waits faster\*](https://www.youtube.com/watch?v=gmaIv5JaryU)
-
-## ~~Useless~~ $\color{blue}\text{Cool}$ Statistics:
+## ~~Useless~~ Cool $\color{blue}\text{Statistics}$:
 <p align="center">
   <!-- Stats -->
   <img height=200
