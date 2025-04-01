@@ -17,7 +17,7 @@ My favorite GitHub emoji: :shipit:
 <img src="images/Proton.svg" height="18"> [StellarSt0rm@proton.me](mailto:StellarSt0rm@proton.me)
 
 <img src="images/Discord.png" height="18"> [StellarSt0rm](https://discord.com/users/865498115360292894) \
-<img src="images/Reddit.png" height="18"> [Background-Plant-226](https://www.reddit.com/user/Background-Plant-226)
+<img src="images/Lemmy.png" height="18"> [StellarSt0rm](https://lemmy.world/u/StellarSt0rm)
 
 <img src="images/Web.png" height="18"> [stellarst0rm.github.io](https://stellarst0rm.github.io)
 
