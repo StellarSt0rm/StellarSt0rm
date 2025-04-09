@@ -1,9 +1,8 @@
 # StellarSt0rm · $\color{mediumorchid}\text{she/her}$
-I $\color{magenta}\text{LOVE}$ programming and cats. \
-I $\color{red}\text{HATE}$ M$ and JavaScript. \
-My favorite GitHub emoji: :shipit:
+Hi! You can call me May, I $\color{magenta}\text{LOVE}$ programming and cats, and $\color{red}\text{HATE}$ M$ and JavaScript. \
+My favorite GitHub emoji is :shipit:
 
-<img title="GIF made by @owiebrainhurts" src="images/cat-griddy.gif" />
+<img title="GIF made by @owiebrainhurts on YT" src="images/cat-griddy.gif" />
 
 ## Personal $\color{green}\text{Roadmap}$ (2025) · ⭐ = Currently Doing
 - [ ] Remake my [website](https://github.com/StellarSt0rm/stellarst0rm.github.io) in Rust ⭐
