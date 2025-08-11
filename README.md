@@ -9,8 +9,6 @@ My favorite GitHub emoji is :shipit:
 - [ ] Fully learn Rust
   - [ ] Read the [Rust book](https://rust-book.cs.brown.edu) ⭐
   - [ ] Maybe read the [Rustonomicon](https://doc.rust-lang.org/nomicon/intro.html)?
-- [ ] Maybe remake [IYCS](https://github.com/StellarSt0rm/IYCS) in Rust?
-  - Did some [research](https://github.com/bonomat/rust-wasm-firefox-extension), it's possible.
 
 ## Social $\color{magenta}\text{Links}$
 <img src="images/Proton.svg" height="18"> [StellarSt0rm@proton.me](mailto:StellarSt0rm@proton.me)
