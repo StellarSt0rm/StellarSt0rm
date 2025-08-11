@@ -20,7 +20,7 @@ My favorite GitHub emoji is :shipit:
 
 <img src="images/Web.png" height="18"> [stellarst0rm.github.io](https://stellarst0rm.github.io)
 
-## ~~Useless~~ Cool $\color{blue}\text{Statistics}$:
+## Useless $\color{blue}\text{Statistics}$:
 <p align="center">
   <!-- Stats -->
   <img height=200
