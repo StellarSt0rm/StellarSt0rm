@@ -16,7 +16,7 @@ My favorite GitHub emoji is :shipit:
 <img src="images/Proton.svg" height="18"> [StellarSt0rm@proton.me](mailto:StellarSt0rm@proton.me)
 
 <img src="images/Matrix.svg" height="18"> [StellarSt0rm:matrix.org](https://matrix.to/#/@stellarst0rm:matrix.org) \
-<img src="images/Lemmy.png" height="18"> [StellarSt0rm](https://lemmy.world/u/StellarSt0rm)
+<img src="images/Lemmy.png" height="18"> [StellarSt0rm@lemmy.world](https://lemmy.world/u/StellarSt0rm)
 
 <img src="images/Web.png" height="18"> [stellarst0rm.github.io](https://stellarst0rm.github.io)
 
