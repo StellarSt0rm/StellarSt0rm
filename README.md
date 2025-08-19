@@ -2,6 +2,8 @@
 Hi! You can call me May, I $\color{magenta}\text{LOVE}$ programming and cats, and $\color{red}\text{HATE}$ M$ and JavaScript. \
 My favorite GitHub emoji is :shipit:
 
+#### I am migrating to Codeberg, i will slowly migrate all of my repositories to Codeberg. To access my repositories you'll have to go to: https://codeberg.org/StellarSt0rm
+
 <img title="GIF made by @owiebrainhurts on YT" src="images/cat-griddy.gif" />
 
 ## Personal $\color{green}\text{Roadmap}$ (2025) · ⭐ = Currently Doing
